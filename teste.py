@@ -1,7 +1,7 @@
 import random
 
 # Lista com os nomes dos participantes do jogo
-participantes = ["Alexia", "João", "Maria", "Pedro", "Lucas", "Julia"]
+participantes = ["Alexia", "Sérgio", "Paula", "Antonio", "João", "Ariane"]
 
 # Embaralha a lista para sortear os amigos secretos
 amigos_secretos = random.sample(participantes, len(participantes))
