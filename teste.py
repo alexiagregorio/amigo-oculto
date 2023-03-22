@@ -35,8 +35,3 @@ for i in range(len(amigos_secretos)):
 #Para verificar se um amigo secreto já foi sorteado anteriormente, o loop usa o método index para procurar o índice do amigo secreto atual na lista de amigos secretos. Se esse índice for menor que a posição atual do loop, significa que o amigo secreto já foi sorteado anteriormente e o loop inteiro é reiniciado.
 
 #Finalmente, outro loop for é usado para imprimir o nome do amigo secreto correspondente a cada participante na tela.
-
-
-
-
-
